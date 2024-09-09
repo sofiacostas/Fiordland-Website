@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+header {
+    font-size: 60px;
+    background-color: #3270CE;
+    margin-block: 0px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: "Abril Fatface", serif;
+    font-style: normal;
+}
+nav {
+    background-color: #3270CE;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Abril Fatface", serif;
+}
+
+a {
+    color: #FFFFFF;
+    padding: 10px 30px;
+}
+
+
+h1 {
+    margin: 0px;
+}
+
+.imageLogo {
+    float: left;
+    width: 8%;
+}
