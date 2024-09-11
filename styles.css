@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    color: #000000;
+}
 
 header {
     font-size: 60px;
@@ -7,7 +12,6 @@ header {
     color: #FFFFFF;
     text-align: center;
     font-family: "Abril Fatface", serif;
-    font-style: normal;
 }
 nav {
     background-color: #3270CE;
@@ -30,4 +34,18 @@ h1 {
 .imageLogo {
     float: left;
     width: 8%;
+}
+
+h2 {
+    font-size: 45px;
+    font-family: "Abril Fatface", serif;
+    margin-left: 100px;
+}
+
+p {
+    font-size: 25px;
+    font-family: "Zilla Slab", serif;
+    font-weight: 600px;
+    margin-left: 100px;
+
 }
