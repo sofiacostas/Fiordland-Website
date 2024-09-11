@@ -36,16 +36,34 @@ h1 {
     width: 8%;
 }
 
+img {
+    width: 25%;
+    float: right;
+    margin-right: 10%;
+}
+
 h2 {
-    font-size: 45px;
+    font-size: 60px;
     font-family: "Abril Fatface", serif;
-    margin-left: 100px;
+    margin-left: 5%;
 }
 
 p {
-    font-size: 25px;
+    font-size: 30px;
     font-family: "Zilla Slab", serif;
     font-weight: 600px;
-    margin-left: 100px;
+    margin-left: 5%;
+    margin-right: 50%;
+    row-gap: 10px;
 
+}
+
+footer {
+    font-size: 20px;
+    font-family: "Zilla Slab", serif;
+    background-color: #3270CE;
+    color: #FFFFFF;
+    margin-top: 15%;
+    margin-bottom: 0px;
+    word-spacing: 10px;
 }
