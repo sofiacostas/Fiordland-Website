@@ -82,13 +82,22 @@ h4 {
     margin-bottom: 0%;
 }
 
+
+
+div.a {
+    word-wrap: normal;
+    font-size: 40px;
+    font-family: "Zilla Slab", serif;
+    font-weight: 600px;
+    margin-left: 5%;
+  }
+
 p {
     font-size: 40px;
     font-family: "Zilla Slab", serif;
     font-weight: 600px;
     margin-left: 5%;
-    margin-right: 50%;
-    row-gap: 10px;
+    width: 1000px;
 
 }
 
