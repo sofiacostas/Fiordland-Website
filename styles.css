@@ -45,6 +45,7 @@ h1 {
     width: 15%;
     margin-left: 4%;
     margin-right: 5%;
+    margin-bottom: 5%;
 }
 
 .imageHeli {
@@ -64,7 +65,7 @@ h2 {
     font-family: "Abril Fatface", serif;
     margin-left: 5%;
     margin-top: 5%;
-    word-spacing: 80px;
+    word-spacing: 130px;
 }
 
 h3 {
