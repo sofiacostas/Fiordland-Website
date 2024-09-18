@@ -54,6 +54,12 @@ h1 {
     margin-right: 15%;
 }
 
+.imageAccommodation {
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
 img {
     width: 25%;
     float: right;
