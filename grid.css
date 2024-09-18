@@ -1,0 +1,15 @@
+header {grid-area: header;}
+nav {grid-area: nav;}
+main {grid-area: main;}
+footer {grid-area: footer;}
+
+
+.grid-container {
+    display: grid;
+    grid-template-areas:
+    'header header header header header header header header header header'
+    'nav nav nav nav nav nav nav nav nav nav'
+    'main main main main main main main main main main'
+    'footer footer footer footer footer footer footer footer footer footer';
+    padding: 10px;
+}
