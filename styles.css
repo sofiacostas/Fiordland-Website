@@ -36,6 +36,12 @@ h1 {
     width: 8%;
 }
 
+.imageRiver {
+    float: right;
+    margin-top: 10%;
+    width: 25%;
+}
+
 .imageActivites {
     width: 15%;
     margin-right: 8%;
@@ -51,13 +57,13 @@ h1 {
 .imageHeli {
     width: 15%;
     margin-left: 0%;
-    margin-right: 15%;
+    margin-right: 14.5%;
 }
 
 .imageAccommodation {
     width: 30%;
-    margin-left: 5%;
-    margin-top: 2%;
+    margin-left: 6%;
+    margin-top: 8%;
 }
 
 img {
@@ -92,7 +98,6 @@ div.a {
     word-wrap: normal;
     font-size: 40px;
     font-family: "Zilla Slab", serif;
-    font-weight: 600px;
     margin-left: 5%;
   }
 
@@ -108,7 +113,6 @@ div.b {
 p {
     font-size: 40px;
     font-family: "Zilla Slab", serif;
-    font-weight: 600px;
     margin-left: 5%;
     width: 1000px;
 
@@ -117,7 +121,6 @@ p {
 footer {
     font-size: 20px;
     font-family: "Zilla Slab", serif;
-    font-weight: 600px;
     background-color: #2A6CCF;
     color: #FFFFFF;
 }
